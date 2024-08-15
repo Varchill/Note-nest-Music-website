@@ -1,0 +1,10 @@
+Home
+Albums
+Genres
+About/Contact
+Songs(Search,dipslay top songs,recently played)
+Artists
+News
+Playlists
+About
+Profile

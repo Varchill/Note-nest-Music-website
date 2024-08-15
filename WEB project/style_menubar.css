@@ -1,0 +1,29 @@
+.menu {
+    height: 30px;
+    display: flex;
+    padding: 2px;
+    align-items: flex-start;
+    justify-content: space-between;
+    background-color: rgb(232, 86, 33);
+}
+
+.menu-item{
+    padding: 0 5px;
+    border-radius: 5px;
+    background-color: #000;
+    color: rgb(232, 86, 33);
+    font-size: 16px;
+}
+.menu-item a{
+    text-decoration: none;
+    color: rgb(232, 86, 33);
+}
+
+.menu-item:hover{
+    border: #000 1px ridge;
+    background-color: rgb(232, 86, 33);
+    color: #000;
+}
+.menu-item:hover a{
+    color: #000;
+}
